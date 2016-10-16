@@ -3,6 +3,7 @@ main ()
 {
 int a;
 a=5;
+printf("ясно понятно");
 return 0;
 
 {
